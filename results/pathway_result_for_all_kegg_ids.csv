@@ -1,0 +1,133 @@
+,KEGG ID,compound name,formula,dbId,pathway name,stId,isInDisease,speciesName
+0,C07481,['caffeine'],C8H10N4O2,211957,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-HSA-211957,False,Homo sapiens
+1,C07481,['caffeine'],C8H10N4O2,10023689,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-MMU-211957,False,Mus musculus
+2,C07481,['caffeine'],C8H10N4O2,10143627,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-RNO-211957,False,Rattus norvegicus
+3,C07481,['caffeine'],C8H10N4O2,10360983,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-BTA-211957,False,Bos taurus
+4,C07481,['caffeine'],C8H10N4O2,10474597,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-SSC-211957,False,Sus scrofa
+5,C07481,['caffeine'],C8H10N4O2,10535050,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-DRE-211957,False,Danio rerio
+6,C07481,['caffeine'],C8H10N4O2,10704454,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-GGA-211957,False,Gallus gallus
+7,C07481,['caffeine'],C8H10N4O2,420499,Class C/3 (Metabotropic glutamate/pheromone receptors),R-HSA-420499,False,Homo sapiens
+8,C07481,['caffeine'],C8H10N4O2,10024869,Class C/3 (Metabotropic glutamate/pheromone receptors),R-MMU-420499,False,Mus musculus
+9,C07481,['caffeine'],C8H10N4O2,10144799,Class C/3 (Metabotropic glutamate/pheromone receptors),R-RNO-420499,False,Rattus norvegicus
+10,C07481,['caffeine'],C8H10N4O2,10250294,Class C/3 (Metabotropic glutamate/pheromone receptors),R-CFA-420499,False,Canis familiaris
+11,C07481,['caffeine'],C8H10N4O2,10362135,Class C/3 (Metabotropic glutamate/pheromone receptors),R-BTA-420499,False,Bos taurus
+12,C07481,['caffeine'],C8H10N4O2,10475729,Class C/3 (Metabotropic glutamate/pheromone receptors),R-SSC-420499,False,Sus scrofa
+13,C07481,['caffeine'],C8H10N4O2,10535948,Class C/3 (Metabotropic glutamate/pheromone receptors),R-DRE-420499,False,Danio rerio
+14,C07481,['caffeine'],C8H10N4O2,10610067,Class C/3 (Metabotropic glutamate/pheromone receptors),R-XTR-420499,False,Xenopus tropicalis
+15,C07481,['caffeine'],C8H10N4O2,10705536,Class C/3 (Metabotropic glutamate/pheromone receptors),R-GGA-420499,False,Gallus gallus
+16,C07481,['caffeine'],C8H10N4O2,10704552,G alpha (i) signalling events,R-GGA-418594,False,Gallus gallus
+17,C07481,['caffeine'],C8H10N4O2,10535184,G alpha (i) signalling events,R-DRE-418594,False,Danio rerio
+18,C07481,['caffeine'],C8H10N4O2,10609239,G alpha (i) signalling events,R-XTR-418594,False,Xenopus tropicalis
+19,C07481,['caffeine'],C8H10N4O2,418594,G alpha (i) signalling events,R-HSA-418594,False,Homo sapiens
+20,C07481,['caffeine'],C8H10N4O2,10143771,G alpha (i) signalling events,R-RNO-418594,False,Rattus norvegicus
+21,C07481,['caffeine'],C8H10N4O2,10361127,G alpha (i) signalling events,R-BTA-418594,False,Bos taurus
+22,C07481,['caffeine'],C8H10N4O2,10474739,G alpha (i) signalling events,R-SSC-418594,False,Sus scrofa
+23,C07481,['caffeine'],C8H10N4O2,10249298,G alpha (i) signalling events,R-CFA-418594,False,Canis familiaris
+24,C07481,['caffeine'],C8H10N4O2,10023833,G alpha (i) signalling events,R-MMU-418594,False,Mus musculus
+25,C07481,['caffeine'],C8H10N4O2,9717207,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-HSA-9717207,False,Homo sapiens
+26,C07481,['caffeine'],C8H10N4O2,10537438,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-DRE-9717207,False,Danio rerio
+27,C07481,['caffeine'],C8H10N4O2,10477549,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-SSC-9717207,False,Sus scrofa
+28,C07481,['caffeine'],C8H10N4O2,10707316,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-GGA-9717207,False,Gallus gallus
+29,C07481,['caffeine'],C8H10N4O2,10026695,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-MMU-9717207,False,Mus musculus
+30,C07481,['caffeine'],C8H10N4O2,10146607,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-RNO-9717207,False,Rattus norvegicus
+31,C07481,['caffeine'],C8H10N4O2,10252074,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-CFA-9717207,False,Canis familiaris
+32,C07481,['caffeine'],C8H10N4O2,10363955,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-BTA-9717207,False,Bos taurus
+33,C07481,['caffeine'],C8H10N4O2,211957,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-HSA-211957,False,Homo sapiens
+34,C07481,['caffeine'],C8H10N4O2,10023689,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-MMU-211957,False,Mus musculus
+35,C07481,['caffeine'],C8H10N4O2,10143627,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-RNO-211957,False,Rattus norvegicus
+36,C07481,['caffeine'],C8H10N4O2,10360983,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-BTA-211957,False,Bos taurus
+37,C07481,['caffeine'],C8H10N4O2,10474597,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-SSC-211957,False,Sus scrofa
+38,C07481,['caffeine'],C8H10N4O2,10535050,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-DRE-211957,False,Danio rerio
+39,C07481,['caffeine'],C8H10N4O2,10704454,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-GGA-211957,False,Gallus gallus
+40,C07481,['caffeine'],C8H10N4O2,420499,Class C/3 (Metabotropic glutamate/pheromone receptors),R-HSA-420499,False,Homo sapiens
+41,C07481,['caffeine'],C8H10N4O2,10024869,Class C/3 (Metabotropic glutamate/pheromone receptors),R-MMU-420499,False,Mus musculus
+42,C07481,['caffeine'],C8H10N4O2,10144799,Class C/3 (Metabotropic glutamate/pheromone receptors),R-RNO-420499,False,Rattus norvegicus
+43,C07481,['caffeine'],C8H10N4O2,10250294,Class C/3 (Metabotropic glutamate/pheromone receptors),R-CFA-420499,False,Canis familiaris
+44,C07481,['caffeine'],C8H10N4O2,10362135,Class C/3 (Metabotropic glutamate/pheromone receptors),R-BTA-420499,False,Bos taurus
+45,C07481,['caffeine'],C8H10N4O2,10475729,Class C/3 (Metabotropic glutamate/pheromone receptors),R-SSC-420499,False,Sus scrofa
+46,C07481,['caffeine'],C8H10N4O2,10535948,Class C/3 (Metabotropic glutamate/pheromone receptors),R-DRE-420499,False,Danio rerio
+47,C07481,['caffeine'],C8H10N4O2,10610067,Class C/3 (Metabotropic glutamate/pheromone receptors),R-XTR-420499,False,Xenopus tropicalis
+48,C07481,['caffeine'],C8H10N4O2,10705536,Class C/3 (Metabotropic glutamate/pheromone receptors),R-GGA-420499,False,Gallus gallus
+49,C07481,['caffeine'],C8H10N4O2,10704552,G alpha (i) signalling events,R-GGA-418594,False,Gallus gallus
+50,C07481,['caffeine'],C8H10N4O2,10535184,G alpha (i) signalling events,R-DRE-418594,False,Danio rerio
+51,C07481,['caffeine'],C8H10N4O2,10609239,G alpha (i) signalling events,R-XTR-418594,False,Xenopus tropicalis
+52,C07481,['caffeine'],C8H10N4O2,418594,G alpha (i) signalling events,R-HSA-418594,False,Homo sapiens
+53,C07481,['caffeine'],C8H10N4O2,10143771,G alpha (i) signalling events,R-RNO-418594,False,Rattus norvegicus
+54,C07481,['caffeine'],C8H10N4O2,10361127,G alpha (i) signalling events,R-BTA-418594,False,Bos taurus
+55,C07481,['caffeine'],C8H10N4O2,10474739,G alpha (i) signalling events,R-SSC-418594,False,Sus scrofa
+56,C07481,['caffeine'],C8H10N4O2,10249298,G alpha (i) signalling events,R-CFA-418594,False,Canis familiaris
+57,C07481,['caffeine'],C8H10N4O2,10023833,G alpha (i) signalling events,R-MMU-418594,False,Mus musculus
+58,C07481,['caffeine'],C8H10N4O2,9717207,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-HSA-9717207,False,Homo sapiens
+59,C07481,['caffeine'],C8H10N4O2,10537438,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-DRE-9717207,False,Danio rerio
+60,C07481,['caffeine'],C8H10N4O2,10477549,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-SSC-9717207,False,Sus scrofa
+61,C07481,['caffeine'],C8H10N4O2,10707316,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-GGA-9717207,False,Gallus gallus
+62,C07481,['caffeine'],C8H10N4O2,10026695,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-MMU-9717207,False,Mus musculus
+63,C07481,['caffeine'],C8H10N4O2,10146607,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-RNO-9717207,False,Rattus norvegicus
+64,C07481,['caffeine'],C8H10N4O2,10252074,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-CFA-9717207,False,Canis familiaris
+65,C07481,['caffeine'],C8H10N4O2,10363955,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-BTA-9717207,False,Bos taurus
+66,C07481,['caffeine'],C8H10N4O2,211957,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-HSA-211957,False,Homo sapiens
+67,C07481,['caffeine'],C8H10N4O2,10023689,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-MMU-211957,False,Mus musculus
+68,C07481,['caffeine'],C8H10N4O2,10143627,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-RNO-211957,False,Rattus norvegicus
+69,C07481,['caffeine'],C8H10N4O2,10360983,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-BTA-211957,False,Bos taurus
+70,C07481,['caffeine'],C8H10N4O2,10474597,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-SSC-211957,False,Sus scrofa
+71,C07481,['caffeine'],C8H10N4O2,10535050,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-DRE-211957,False,Danio rerio
+72,C07481,['caffeine'],C8H10N4O2,10704454,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-GGA-211957,False,Gallus gallus
+73,C07481,['caffeine'],C8H10N4O2,420499,Class C/3 (Metabotropic glutamate/pheromone receptors),R-HSA-420499,False,Homo sapiens
+74,C07481,['caffeine'],C8H10N4O2,10024869,Class C/3 (Metabotropic glutamate/pheromone receptors),R-MMU-420499,False,Mus musculus
+75,C07481,['caffeine'],C8H10N4O2,10144799,Class C/3 (Metabotropic glutamate/pheromone receptors),R-RNO-420499,False,Rattus norvegicus
+76,C07481,['caffeine'],C8H10N4O2,10250294,Class C/3 (Metabotropic glutamate/pheromone receptors),R-CFA-420499,False,Canis familiaris
+77,C07481,['caffeine'],C8H10N4O2,10362135,Class C/3 (Metabotropic glutamate/pheromone receptors),R-BTA-420499,False,Bos taurus
+78,C07481,['caffeine'],C8H10N4O2,10475729,Class C/3 (Metabotropic glutamate/pheromone receptors),R-SSC-420499,False,Sus scrofa
+79,C07481,['caffeine'],C8H10N4O2,10535948,Class C/3 (Metabotropic glutamate/pheromone receptors),R-DRE-420499,False,Danio rerio
+80,C07481,['caffeine'],C8H10N4O2,10610067,Class C/3 (Metabotropic glutamate/pheromone receptors),R-XTR-420499,False,Xenopus tropicalis
+81,C07481,['caffeine'],C8H10N4O2,10705536,Class C/3 (Metabotropic glutamate/pheromone receptors),R-GGA-420499,False,Gallus gallus
+82,C07481,['caffeine'],C8H10N4O2,10704552,G alpha (i) signalling events,R-GGA-418594,False,Gallus gallus
+83,C07481,['caffeine'],C8H10N4O2,10535184,G alpha (i) signalling events,R-DRE-418594,False,Danio rerio
+84,C07481,['caffeine'],C8H10N4O2,10609239,G alpha (i) signalling events,R-XTR-418594,False,Xenopus tropicalis
+85,C07481,['caffeine'],C8H10N4O2,418594,G alpha (i) signalling events,R-HSA-418594,False,Homo sapiens
+86,C07481,['caffeine'],C8H10N4O2,10143771,G alpha (i) signalling events,R-RNO-418594,False,Rattus norvegicus
+87,C07481,['caffeine'],C8H10N4O2,10361127,G alpha (i) signalling events,R-BTA-418594,False,Bos taurus
+88,C07481,['caffeine'],C8H10N4O2,10474739,G alpha (i) signalling events,R-SSC-418594,False,Sus scrofa
+89,C07481,['caffeine'],C8H10N4O2,10249298,G alpha (i) signalling events,R-CFA-418594,False,Canis familiaris
+90,C07481,['caffeine'],C8H10N4O2,10023833,G alpha (i) signalling events,R-MMU-418594,False,Mus musculus
+91,C07481,['caffeine'],C8H10N4O2,9717207,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-HSA-9717207,False,Homo sapiens
+92,C07481,['caffeine'],C8H10N4O2,10537438,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-DRE-9717207,False,Danio rerio
+93,C07481,['caffeine'],C8H10N4O2,10477549,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-SSC-9717207,False,Sus scrofa
+94,C07481,['caffeine'],C8H10N4O2,10707316,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-GGA-9717207,False,Gallus gallus
+95,C07481,['caffeine'],C8H10N4O2,10026695,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-MMU-9717207,False,Mus musculus
+96,C07481,['caffeine'],C8H10N4O2,10146607,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-RNO-9717207,False,Rattus norvegicus
+97,C07481,['caffeine'],C8H10N4O2,10252074,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-CFA-9717207,False,Canis familiaris
+98,C07481,['caffeine'],C8H10N4O2,10363955,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-BTA-9717207,False,Bos taurus
+99,C07481,['caffeine'],C8H10N4O2,211957,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-HSA-211957,False,Homo sapiens
+100,C07481,['caffeine'],C8H10N4O2,10023689,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-MMU-211957,False,Mus musculus
+101,C07481,['caffeine'],C8H10N4O2,10143627,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-RNO-211957,False,Rattus norvegicus
+102,C07481,['caffeine'],C8H10N4O2,10360983,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-BTA-211957,False,Bos taurus
+103,C07481,['caffeine'],C8H10N4O2,10474597,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-SSC-211957,False,Sus scrofa
+104,C07481,['caffeine'],C8H10N4O2,10535050,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-DRE-211957,False,Danio rerio
+105,C07481,['caffeine'],C8H10N4O2,10704454,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,R-GGA-211957,False,Gallus gallus
+106,C07481,['caffeine'],C8H10N4O2,420499,Class C/3 (Metabotropic glutamate/pheromone receptors),R-HSA-420499,False,Homo sapiens
+107,C07481,['caffeine'],C8H10N4O2,10024869,Class C/3 (Metabotropic glutamate/pheromone receptors),R-MMU-420499,False,Mus musculus
+108,C07481,['caffeine'],C8H10N4O2,10144799,Class C/3 (Metabotropic glutamate/pheromone receptors),R-RNO-420499,False,Rattus norvegicus
+109,C07481,['caffeine'],C8H10N4O2,10250294,Class C/3 (Metabotropic glutamate/pheromone receptors),R-CFA-420499,False,Canis familiaris
+110,C07481,['caffeine'],C8H10N4O2,10362135,Class C/3 (Metabotropic glutamate/pheromone receptors),R-BTA-420499,False,Bos taurus
+111,C07481,['caffeine'],C8H10N4O2,10475729,Class C/3 (Metabotropic glutamate/pheromone receptors),R-SSC-420499,False,Sus scrofa
+112,C07481,['caffeine'],C8H10N4O2,10535948,Class C/3 (Metabotropic glutamate/pheromone receptors),R-DRE-420499,False,Danio rerio
+113,C07481,['caffeine'],C8H10N4O2,10610067,Class C/3 (Metabotropic glutamate/pheromone receptors),R-XTR-420499,False,Xenopus tropicalis
+114,C07481,['caffeine'],C8H10N4O2,10705536,Class C/3 (Metabotropic glutamate/pheromone receptors),R-GGA-420499,False,Gallus gallus
+115,C07481,['caffeine'],C8H10N4O2,10704552,G alpha (i) signalling events,R-GGA-418594,False,Gallus gallus
+116,C07481,['caffeine'],C8H10N4O2,10535184,G alpha (i) signalling events,R-DRE-418594,False,Danio rerio
+117,C07481,['caffeine'],C8H10N4O2,10609239,G alpha (i) signalling events,R-XTR-418594,False,Xenopus tropicalis
+118,C07481,['caffeine'],C8H10N4O2,418594,G alpha (i) signalling events,R-HSA-418594,False,Homo sapiens
+119,C07481,['caffeine'],C8H10N4O2,10143771,G alpha (i) signalling events,R-RNO-418594,False,Rattus norvegicus
+120,C07481,['caffeine'],C8H10N4O2,10361127,G alpha (i) signalling events,R-BTA-418594,False,Bos taurus
+121,C07481,['caffeine'],C8H10N4O2,10474739,G alpha (i) signalling events,R-SSC-418594,False,Sus scrofa
+122,C07481,['caffeine'],C8H10N4O2,10249298,G alpha (i) signalling events,R-CFA-418594,False,Canis familiaris
+123,C07481,['caffeine'],C8H10N4O2,10023833,G alpha (i) signalling events,R-MMU-418594,False,Mus musculus
+124,C07481,['caffeine'],C8H10N4O2,9717207,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-HSA-9717207,False,Homo sapiens
+125,C07481,['caffeine'],C8H10N4O2,10537438,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-DRE-9717207,False,Danio rerio
+126,C07481,['caffeine'],C8H10N4O2,10477549,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-SSC-9717207,False,Sus scrofa
+127,C07481,['caffeine'],C8H10N4O2,10707316,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-GGA-9717207,False,Gallus gallus
+128,C07481,['caffeine'],C8H10N4O2,10026695,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-MMU-9717207,False,Mus musculus
+129,C07481,['caffeine'],C8H10N4O2,10146607,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-RNO-9717207,False,Rattus norvegicus
+130,C07481,['caffeine'],C8H10N4O2,10252074,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-CFA-9717207,False,Canis familiaris
+131,C07481,['caffeine'],C8H10N4O2,10363955,"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-BTA-9717207,False,Bos taurus
